@@ -1,3 +1,3 @@
 # KAHSS Web Development Team
--Rand Faber
+-Rand Faber  
 -Cooper Gheen
